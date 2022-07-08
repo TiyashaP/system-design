@@ -45,3 +45,6 @@ High Scalability - http://highscalability.com/
 Solid principles: https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
 
 https://stackify.com/solid-design-principles/
+
+
+System design solution pdfs :https://www.andiamogo.com/S-OOD.pdf
